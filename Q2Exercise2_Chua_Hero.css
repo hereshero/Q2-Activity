@@ -1,0 +1,16 @@
+h1{
+	text-shadow: 2px 2px #829460;
+}
+
+body{
+	background-image: url("https://64.media.tumblr.com/14f3254a04e41871e6a485d23fb2689e/a9033d66f4090879-64/s1280x1920/2fa9a87816b0448ec851b2386abd4d17284f447a.jpg");
+}
+
+p{
+	color: whitesmoke;
+}
+
+span{
+	font-weight: bold;
+	color:#FCA3CC;
+}
